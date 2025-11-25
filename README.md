@@ -45,16 +45,11 @@ const yuri = {
 
 ---
 
-### 📊 Estatísticas & Métricas
+### 📊 Estatísticas GitHub
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurialvesferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&user=yurialvesferreira&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesferreira&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yurialvesferreira&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 ---
@@ -179,10 +174,15 @@ gantt
 
 ---
 
-### 🐍 Contribuições
+### 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yurialvesferreira/yurialvesferreira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurialvesferreira&bg_color=0d1117&color=ff006e&line=ff006e&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&user=yurialvesferreira&hide_border=true&background=0D1117&stroke=ff006e&ring=ff006e&fire=ff006e&currStreakLabel=ff006e" alt="GitHub Streak Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yurialvesferreira&theme=radical&utcOffset=-3" alt="Productive Time" width="49%"/>
 </div>
 
 ---
@@ -197,7 +197,7 @@ gantt
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yurialvesferreira&theme=radical)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yurialvesferreira&theme=radical)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yurialvesferreira&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=yurialvesferreira&theme=radical)
 
 </div>
 
