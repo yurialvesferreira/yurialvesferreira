@@ -48,8 +48,12 @@ const yuri = {
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurialvesferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesferreira&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <a href="https://github.com/yurialvesferreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurialvesferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy"/>
+  </a>
+  <a href="https://github.com/yurialvesferreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesferreira&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" loading="lazy"/>
+  </a>
 </div>
 
 ---
