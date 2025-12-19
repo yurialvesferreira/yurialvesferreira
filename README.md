@@ -108,46 +108,6 @@ const yuri = {
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/yurialvesferreira/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurialvesferreira&repo=portfolio&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/yurialvesferreira/dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurialvesferreira&repo=dashboard&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-  <br>
-
-  **📌 Portfólio Pessoal**: Site moderno com foco em UI/UX e experiência do usuário
-
-  **📊 Dashboard Analytics**: Ferramenta avançada de visualização e análise de dados
-
-</div>
-
----
-
-### 📈 Linha do Tempo Profissional
-
-```mermaid
-gantt
-    title Jornada de Desenvolvimento
-    dateFormat  YYYY-MM
-    section Carreira
-    Início da Jornada Tech     :2020-01, 2021-06
-    Desenvolvimento Web        :2021-06, 2022-12
-    Full Stack Development     :2022-12, 2024-06
-    Cloud & DevOps             :2024-06, 2025-12
-```
-
----
-
 ### 🎓 Conhecimentos & Certificações
 
 <div align="center">
