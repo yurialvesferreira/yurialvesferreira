@@ -18,7 +18,7 @@
 const yuri = {
   nome: "Yuri Ferreira",
   localização: "Ribeirão Preto - SP 🇧🇷",
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   código: ["JavaScript", "TypeScript", "Python", "C#"],
   tecnologias: {
     frontend: ["React", "HTML5", "CSS3", "Tailwind"],
